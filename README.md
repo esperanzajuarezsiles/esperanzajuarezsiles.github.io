@@ -1,4 +1,4 @@
-#Mi Portafolio de Proyectos
+# Mi Portafolio de Proyectos
 
 Este proyecto fue creado en el bootcamp de Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
